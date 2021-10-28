@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
   ![AWS](https://img.shields.io/badge/-Aws-333333?style=flat&logo=Aws)
-  ![Apache-tomcat](https://img.shields.io/badge/-Apache-tomcat-333333?style=flat&logo=Apache-tomcat)
+  ![Apache-tomcat](https://img.shields.io/badge/-ApacheTomcat-333333?style=flat&logo=ApacheTomcat)
   ![WireShark](https://img.shields.io/badge/-Wireshark-333333?style=flat&logo=WireShark)
 
 - 🔧 &nbsp;
