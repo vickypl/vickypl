@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### 🛠 &nbsp;Tech Stack
 
-  ##**Algorithms and problem solving**
+  **Algorithms and problem solving**
 
 - 🌐 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
