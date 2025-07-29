@@ -68,4 +68,4 @@ Here are some ideas to get you started:
 <p align="center">
 <h1><a href="https://twitter.com/thevickypl"><img src="https://img.shields.io/badge/-thevickypl-D14836?style=flat-square&logo=twitter&logoColor=blue"/></a></h1>
 </h1><a href="https://www.linkedin.com/in/vicky-pl/"><img src="https://img.shields.io/badge/-Vikas%20Panchal-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a></h1>
-<h1><a href="mailto:vicky542011@gmail.com"><img src="https://img.shields.io/badge/-vicky542011@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a></h1>
+<h1><a href="mailto:vikaspanchal.dev@gmail.com"><img src="https://img.shields.io/badge/-vikaspanchal.dev@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a></h1>
